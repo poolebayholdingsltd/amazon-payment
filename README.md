@@ -1,3 +1,15 @@
+Requies an update to support Sept 14 3DSecure changes 
+https://developer.amazon.com/docs/eu/amazon-pay-onetime/sca-upgrade.html
+
+
+
+
+
+
+
+
+
+
 # Login and Pay with Amazon
 
 Didn't like the official amazon package so i made this one. Its much lighter and easier to setup. I'm using this in production on a ecommerce site and it works well.
